@@ -3,3 +3,5 @@
 http://clubtv.link/2508a/key4513/lista3.php?c=a00s&token=TecnotvAgo2400&f=.m3u8
 #EXTINF:-2 group-title="TV PREMIUM", Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-3 group-title="TV PREMIUM", TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lhd.m3u8?vhost=player-tvcultura.stream.uol.com.br
